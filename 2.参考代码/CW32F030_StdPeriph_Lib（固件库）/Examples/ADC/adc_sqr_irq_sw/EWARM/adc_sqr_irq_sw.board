@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_board>
+    <pass>
+        <loader>$PROJ_DIR$\flashloader\FlashLoader_CW030.flash</loader>
+        <range>CODE 0x0 0x11fff</range>
+    </pass>
+</flash_board>
