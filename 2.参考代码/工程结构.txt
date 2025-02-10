@@ -1,0 +1,5 @@
+-Libraries：存放CW32官方库文件
+-Listing：对应KEIL5中魔术棒listing配置文件路径
+-Output：对应KEIL5中魔术棒output配置文件路径
+-Project：存放KEIL5工程文件和CW32官方启动文件（如果使用vscode，使用这个文件夹存放相关文件）
+-User：用户自己编写的代码，实现特定的功能
