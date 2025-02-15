@@ -35,5 +35,5 @@
 ..\output\main.o: ..\Libraries\inc\cw32f030_uart.h
 ..\output\main.o: ..\Libraries\inc\cw32f030_wwdt.h
 ..\output\main.o: ..\User\systick\systick.h
-..\output\main.o: ..\User\led\led.h
-..\output\main.o: ..\User\tim\tim.h
+..\output\main.o: ..\User\uart\uart.h
+..\output\main.o: ..\User\adc\adc.h

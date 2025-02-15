@@ -379,7 +379,7 @@ I (..\Libraries\inc\cw32f030_spi.h)(0x60DA6105)
 I (..\Libraries\inc\cw32f030_systick.h)(0x60A22998)
 I (..\Libraries\inc\cw32f030_uart.h)(0x61B2AAF0)
 I (..\Libraries\inc\cw32f030_wwdt.h)(0x6125E740)
-F (..\User\main.c)(0x67AEEB83)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\main.o --omf_browse ..\output\main.crf --depend ..\output\main.d)
+F (..\User\main.c)(0x67AF0B2C)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\main.o --omf_browse ..\output\main.crf --depend ..\output\main.d)
 I (..\User\main.h)(0x67AB495F)
 I (..\Libraries\inc\base_types.h)(0x60ACA725)
 I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
@@ -416,8 +416,8 @@ I (..\Libraries\inc\cw32f030_systick.h)(0x60A22998)
 I (..\Libraries\inc\cw32f030_uart.h)(0x61B2AAF0)
 I (..\Libraries\inc\cw32f030_wwdt.h)(0x6125E740)
 I (..\User\systick\systick.h)(0x67AB38B3)
-I (..\User\led\led.h)(0x67AB5197)
-I (..\User\tim\tim.h)(0x67AEE5F6)
+I (..\User\uart\uart.h)(0x67AB5674)
+I (..\User\adc\adc.h)(0x67AF08FF)
 F (..\User\led\led.c)(0x67AC6028)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\led.o --omf_browse ..\output\led.crf --depend ..\output\led.d)
 I (..\User\led\led.h)(0x67AB5197)
 I (..\User\main.h)(0x67AB495F)
@@ -492,7 +492,7 @@ I (..\Libraries\inc\cw32f030_spi.h)(0x60DA6105)
 I (..\Libraries\inc\cw32f030_systick.h)(0x60A22998)
 I (..\Libraries\inc\cw32f030_uart.h)(0x61B2AAF0)
 I (..\Libraries\inc\cw32f030_wwdt.h)(0x6125E740)
-F (..\User\uart\uart.c)(0x67AB57CA)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\uart.o --omf_browse ..\output\uart.crf --depend ..\output\uart.d)
+F (..\User\uart\uart.c)(0x67B001BF)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\uart.o --omf_browse ..\output\uart.crf --depend ..\output\uart.d)
 I (..\User\uart\uart.h)(0x67AB5674)
 I (..\User\main.h)(0x67AB495F)
 I (..\Libraries\inc\base_types.h)(0x60ACA725)
@@ -603,8 +603,8 @@ I (..\Libraries\inc\cw32f030_spi.h)(0x60DA6105)
 I (..\Libraries\inc\cw32f030_systick.h)(0x60A22998)
 I (..\Libraries\inc\cw32f030_uart.h)(0x61B2AAF0)
 I (..\Libraries\inc\cw32f030_wwdt.h)(0x6125E740)
-F (..\User\adc\adc.c)(0x67AF04B8)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\adc.o --omf_browse ..\output\adc.crf --depend ..\output\adc.d)
-I (..\User\adc\adc.h)(0x67AF04B8)
+F (..\User\adc\adc.c)(0x67AF0B1D)(--c99 --gnu -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Libraries\inc -I ..\User\led -I ..\User\systick -I ..\User\uart -I ..\User\key -I ..\User\tim -I ..\User\adc-I.\RTE\_ADC-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\WHXY\CW32F030_DFP\1.0.5\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ..\output\adc.o --omf_browse ..\output\adc.crf --depend ..\output\adc.d)
+I (..\User\adc\adc.h)(0x67AF08FF)
 I (..\User\main.h)(0x67AB495F)
 I (..\Libraries\inc\base_types.h)(0x60ACA725)
 I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
