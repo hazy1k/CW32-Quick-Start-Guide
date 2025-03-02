@@ -1,0 +1,472 @@
+Dependencies for Project 'GPIO', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\AC5
+F (.\Libraries\src\cw32f030_adc.c)(0x61E6E76D)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_adc.o --omf_browse .\objects\cw32f030_adc.crf --depend .\objects\cw32f030_adc.d)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_adc.h)(0x60F0FAAA)
+F (.\Libraries\src\cw32f030_atim.c)(0x6114B95F)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_atim.o --omf_browse .\objects\cw32f030_atim.crf --depend .\objects\cw32f030_atim.d)
+I (.\Libraries\inc\cw32f030_atim.h)(0x6103AC59)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\cw32f030_awt.c)(0x60F55D5C)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_awt.o --omf_browse .\objects\cw32f030_awt.crf --depend .\objects\cw32f030_awt.d)
+I (.\Libraries\inc\cw32f030_awt.h)(0x60F55D5C)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\cw32f030_btim.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_btim.o --omf_browse .\objects\cw32f030_btim.crf --depend .\objects\cw32f030_btim.d)
+I (.\Libraries\inc\cw32f030_btim.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\cw32f030_crc.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_crc.o --omf_browse .\objects\cw32f030_crc.crf --depend .\objects\cw32f030_crc.d)
+I (.\Libraries\inc\cw32f030_crc.h)(0x60EB901E)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_debug.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_debug.o --omf_browse .\objects\cw32f030_debug.crf --depend .\objects\cw32f030_debug.d)
+I (.\Libraries\inc\cw32f030_debug.h)(0x60A600A9)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_digitalsign.c)(0x6109F6D2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_digitalsign.o --omf_browse .\objects\cw32f030_digitalsign.crf --depend .\objects\cw32f030_digitalsign.d)
+I (.\Libraries\inc\cw32f030_digitalsign.h)(0x60E25725)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_dma.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_dma.o --omf_browse .\objects\cw32f030_dma.crf --depend .\objects\cw32f030_dma.d)
+I (.\Libraries\inc\cw32f030_dma.h)(0x60EB901E)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_flash.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_flash.o --omf_browse .\objects\cw32f030_flash.crf --depend .\objects\cw32f030_flash.d)
+I (.\Libraries\inc\cw32f030_flash.h)(0x60EB901E)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_gpio.c)(0x62A7FBF2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_gpio.o --omf_browse .\objects\cw32f030_gpio.crf --depend .\objects\cw32f030_gpio.d)
+I (.\Libraries\inc\cw32f030_gpio.h)(0x61C92B85)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_gtim.c)(0x60F91B3B)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_gtim.o --omf_browse .\objects\cw32f030_gtim.crf --depend .\objects\cw32f030_gtim.d)
+I (.\Libraries\inc\cw32f030_gtim.h)(0x6109F6D2)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_i2c.c)(0x62A93B9D)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_i2c.o --omf_browse .\objects\cw32f030_i2c.crf --depend .\objects\cw32f030_i2c.d)
+I (.\Libraries\inc\cw32f030_i2c.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (.\Libraries\src\cw32f030_iwdt.c)(0x6109F6D2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_iwdt.o --omf_browse .\objects\cw32f030_iwdt.crf --depend .\objects\cw32f030_iwdt.d)
+I (.\Libraries\inc\cw32f030_iwdt.h)(0x6109F6D3)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\cw32f030_lvd.c)(0x6103AC74)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_lvd.o --omf_browse .\objects\cw32f030_lvd.crf --depend .\objects\cw32f030_lvd.d)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_lvd.h)(0x60D1598C)
+F (.\Libraries\src\cw32f030_pwr.c)(0x60EB901E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_pwr.o --omf_browse .\objects\cw32f030_pwr.crf --depend .\objects\cw32f030_pwr.d)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_pwr.h)(0x60D055C1)
+F (.\Libraries\src\cw32f030_ram.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_ram.o --omf_browse .\objects\cw32f030_ram.crf --depend .\objects\cw32f030_ram.d)
+I (.\Libraries\inc\cw32f030_ram.h)(0x60EB901E)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_rcc.c)(0x6103AC59)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_rcc.o --omf_browse .\objects\cw32f030_rcc.crf --depend .\objects\cw32f030_rcc.d)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_rtc.c)(0x60EB901E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_rtc.o --omf_browse .\objects\cw32f030_rtc.crf --depend .\objects\cw32f030_rtc.d)
+I (.\Libraries\inc\cw32f030_rtc.h)(0x60EB901E)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (.\Libraries\src\cw32f030_spi.c)(0x60F91B3B)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_spi.o --omf_browse .\objects\cw32f030_spi.crf --depend .\objects\cw32f030_spi.d)
+I (.\Libraries\inc\cw32f030_spi.h)(0x60DA6105)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\cw32f030_systick.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_systick.o --omf_browse .\objects\cw32f030_systick.crf --depend .\objects\cw32f030_systick.d)
+I (.\Libraries\inc\cw32f030_systick.h)(0x60A22998)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+F (.\Libraries\src\cw32f030_uart.c)(0x60E25725)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_uart.o --omf_browse .\objects\cw32f030_uart.crf --depend .\objects\cw32f030_uart.d)
+I (.\Libraries\inc\cw32f030_uart.h)(0x60DA6105)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\cw32f030_vc.c)(0x6103AC74)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_vc.o --omf_browse .\objects\cw32f030_vc.crf --depend .\objects\cw32f030_vc.d)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_vc.h)(0x60D1582C)
+I (.\Libraries\inc\cw32f030_adc.h)(0x60F0FAAA)
+F (.\Libraries\src\cw32f030_wwdt.c)(0x60D1393E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\cw32f030_wwdt.o --omf_browse .\objects\cw32f030_wwdt.crf --depend .\objects\cw32f030_wwdt.d)
+I (.\Libraries\inc\cw32f030_wwdt.h)(0x6084E752)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+F (.\Libraries\src\system_cw32f030.c)(0x645DDFDA)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\system_cw32f030.o --omf_browse .\objects\system_cw32f030.crf --depend .\objects\system_cw32f030.d)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (.\hardware\ADC.c)(0x669B6CB6)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (hardware\ADC.h)(0x6645B68D)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_gpio.h)(0x61C92B85)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\cw32f030_adc.h)(0x60F0FAAA)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (.\hardware\ADC.h)(0x6645B68D)()
+F (.\hardware\BTIM1.c)(0x6645BB32)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\btim1.o --omf_browse .\objects\btim1.crf --depend .\objects\btim1.d)
+I (hardware\BTIM1.h)(0x6645B6B2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030_btim.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (.\hardware\BTIM1.h)(0x6645B6B2)()
+F (.\hardware\Seg_Dis.c)(0x669B7F82)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\seg_dis.o --omf_browse .\objects\seg_dis.crf --depend .\objects\seg_dis.d)
+I (hardware\Seg_Dis.h)(0x669B7FA6)
+I (.\Libraries\inc\cw32f030_gpio.h)(0x61C92B85)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (.\hardware\Seg_Dis.h)(0x669B7FA6)()
+F (.\USER\interrupts_cw32f030.c)(0x61C91966)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\interrupts_cw32f030.o --omf_browse .\objects\interrupts_cw32f030.crf --depend .\objects\interrupts_cw32f030.d)
+I (USER\main.h)(0x610BE790)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (USER\interrupts_cw32f030.h)(0x60DA7980)
+I (.\Libraries\inc\cw32f030_adc.h)(0x60F0FAAA)
+I (.\Libraries\inc\cw32f030_atim.h)(0x6103AC59)
+I (.\Libraries\inc\cw32f030_awt.h)(0x60F55D5C)
+I (.\Libraries\inc\cw32f030_btim.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_crc.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_debug.h)(0x60A600A9)
+I (.\Libraries\inc\cw32f030_digitalsign.h)(0x60E25725)
+I (.\Libraries\inc\cw32f030_dma.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_flash.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_gpio.h)(0x61C92B85)
+I (.\Libraries\inc\cw32f030_gtim.h)(0x6109F6D2)
+I (.\Libraries\inc\cw32f030_i2c.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+I (.\Libraries\inc\cw32f030_iwdt.h)(0x6109F6D3)
+I (.\Libraries\inc\cw32f030_lvd.h)(0x60D1598C)
+I (.\Libraries\inc\cw32f030_pwr.h)(0x60D055C1)
+I (.\Libraries\inc\cw32f030_ram.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_rtc.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_spi.h)(0x60DA6105)
+I (.\Libraries\inc\cw32f030_systick.h)(0x60A22998)
+I (.\Libraries\inc\cw32f030_uart.h)(0x60DA6105)
+I (.\Libraries\inc\cw32f030_wwdt.h)(0x6084E752)
+F (.\USER\startup_cw32f030.s)(0x60DA7980)(--cpu Cortex-M0+ --li -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include--pd "__UVISION_VERSION SETA 538" --pd "_RTE_ SETA 1" --pd "ARMCM0P SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_cw32f030.lst --xref -o .\objects\startup_cw32f030.o --depend .\objects\startup_cw32f030.d)
+F (.\USER\MAIN.c)(0x67C3FFB9)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O2 --apcs=interwork --split_sections -I .\USER -I .\TFT -I .\hardware -I .\Libraries\inc-I.\RTE\_Target_1-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\dianzi\MDKv5\ARM\CMSIS\5.9.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM0P -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (USER\main.h)(0x610BE790)
+I (.\Libraries\inc\base_types.h)(0x60ACA725)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdio.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\string.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stddef.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\stdint.h)(0x5E8E3CC2)
+I (E:\dianzi\MDKv5\ARM\AC5\include\assert.h)(0x5E8E3CC2)
+I (.\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (.\USER\core_cm0plus.h)(0x5E8ED122)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F4ADE)
+I (E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F4ADE)
+I (.\Libraries\inc\system_cw32f030.h)(0x61CBC5A0)
+I (USER\interrupts_cw32f030.h)(0x60DA7980)
+I (.\Libraries\inc\cw32f030_adc.h)(0x60F0FAAA)
+I (.\Libraries\inc\cw32f030_atim.h)(0x6103AC59)
+I (.\Libraries\inc\cw32f030_awt.h)(0x60F55D5C)
+I (.\Libraries\inc\cw32f030_btim.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_crc.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_debug.h)(0x60A600A9)
+I (.\Libraries\inc\cw32f030_digitalsign.h)(0x60E25725)
+I (.\Libraries\inc\cw32f030_dma.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_flash.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_gpio.h)(0x61C92B85)
+I (.\Libraries\inc\cw32f030_gtim.h)(0x6109F6D2)
+I (.\Libraries\inc\cw32f030_i2c.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+I (.\Libraries\inc\cw32f030_iwdt.h)(0x6109F6D3)
+I (.\Libraries\inc\cw32f030_lvd.h)(0x60D1598C)
+I (.\Libraries\inc\cw32f030_pwr.h)(0x60D055C1)
+I (.\Libraries\inc\cw32f030_ram.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_rtc.h)(0x60EB901E)
+I (.\Libraries\inc\cw32f030_spi.h)(0x60DA6105)
+I (.\Libraries\inc\cw32f030_systick.h)(0x60A22998)
+I (.\Libraries\inc\cw32f030_uart.h)(0x60DA6105)
+I (.\Libraries\inc\cw32f030_wwdt.h)(0x6084E752)
+I (.\hardware\Seg_Dis.h)(0x669B7FA6)
+I (.\hardware\BTIM1.h)(0x6645B6B2)
+I (.\hardware\ADC.h)(0x6645B68D)
+I (.\hardware\flash.h)(0x6645BC95)
