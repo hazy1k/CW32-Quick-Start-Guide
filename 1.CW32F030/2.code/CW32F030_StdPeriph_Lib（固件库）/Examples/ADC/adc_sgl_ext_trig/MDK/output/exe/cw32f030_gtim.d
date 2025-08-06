@@ -1,0 +1,14 @@
+.\output\exe\cw32f030_gtim.o: ..\..\..\..\Libraries\src\cw32f030_gtim.c
+.\output\exe\cw32f030_gtim.o: ..\..\..\..\Libraries\inc\cw32f030_gtim.h
+.\output\exe\cw32f030_gtim.o: ..\..\..\..\Libraries\inc\base_types.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\AC5\Bin\..\include\stdio.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\AC5\Bin\..\include\string.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\AC5\Bin\..\include\stddef.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\AC5\Bin\..\include\stdint.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\AC5\Bin\..\include\assert.h
+.\output\exe\cw32f030_gtim.o: ..\..\..\..\Libraries\inc\cw32f030.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\output\exe\cw32f030_gtim.o: E:\dianzi\MDKv5\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\output\exe\cw32f030_gtim.o: ..\..\..\..\Libraries\inc\system_cw32f030.h

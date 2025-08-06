@@ -1,0 +1,92 @@
+Dependencies for Project 'rcc_hsi_pll(src_hse)', Target 'rcc_hsi_pll(src_hse)': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (..\..\..\..\IdeSupport\MDK\startup_cw32f030.s)(0x61443AD1)(--cpu Cortex-M0+ --li -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "ARMCM0P SETA 1" --pd "_RTE_ SETA 1"-o .\output\exe\startup_cw32f030.o --depend .\output\exe\startup_cw32f030.d)
+F (..\..\..\..\Libraries\src\system_cw32f030.c)(0x613ACABF)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\IdeSupport\MDK -I ..\..\..\..\Libraries\inc -I ..\USER\inc-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM0P -D_RTE_-o .\output\exe\system_cw32f030.o --omf_browse .\output\exe\system_cw32f030.crf --depend .\output\exe\system_cw32f030.d)
+I (..\..\..\..\Libraries\inc\base_types.h)(0x60ACA725)
+I (C:\Keil_v533\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\string.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stddef.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\assert.h)(0x5E8E2EB2)
+I (..\..\..\..\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\..\..\Libraries\inc\system_cw32f030.h)(0x60D54561)
+I (..\..\..\..\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+F (..\USER\src\main.c)(0x61289D2E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\IdeSupport\MDK -I ..\..\..\..\Libraries\inc -I ..\USER\inc-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM0P -D_RTE_-o .\output\exe\main.o --omf_browse .\output\exe\main.crf --depend .\output\exe\main.d)
+I (..\USER\inc\main.h)(0x6084E752)
+I (..\..\..\..\Libraries\inc\base_types.h)(0x60ACA725)
+I (C:\Keil_v533\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\string.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stddef.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\assert.h)(0x5E8E2EB2)
+I (..\..\..\..\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\..\..\Libraries\inc\system_cw32f030.h)(0x60D54561)
+I (..\USER\inc\interrupts_cw32f030.h)(0x6084E752)
+I (..\..\..\..\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+I (..\..\..\..\Libraries\inc\cw32f030_gpio.h)(0x6103AC59)
+I (..\..\..\..\Libraries\inc\cw32f030_flash.h)(0x60EB901E)
+F (..\USER\src\interrupts_cw32f030.c)(0x6084E752)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\IdeSupport\MDK -I ..\..\..\..\Libraries\inc -I ..\USER\inc-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM0P -D_RTE_-o .\output\exe\interrupts_cw32f030.o --omf_browse .\output\exe\interrupts_cw32f030.crf --depend .\output\exe\interrupts_cw32f030.d)
+I (..\USER\inc\main.h)(0x6084E752)
+I (..\..\..\..\Libraries\inc\base_types.h)(0x60ACA725)
+I (C:\Keil_v533\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\string.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stddef.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\assert.h)(0x5E8E2EB2)
+I (..\..\..\..\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\..\..\Libraries\inc\system_cw32f030.h)(0x60D54561)
+I (..\USER\inc\interrupts_cw32f030.h)(0x6084E752)
+F (..\..\..\..\Libraries\src\cw32f030_rcc.c)(0x61318BAD)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\IdeSupport\MDK -I ..\..\..\..\Libraries\inc -I ..\USER\inc-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM0P -D_RTE_-o .\output\exe\cw32f030_rcc.o --omf_browse .\output\exe\cw32f030_rcc.crf --depend .\output\exe\cw32f030_rcc.d)
+I (..\..\..\..\Libraries\inc\cw32f030_rcc.h)(0x60F0FAAA)
+I (..\..\..\..\Libraries\inc\base_types.h)(0x60ACA725)
+I (C:\Keil_v533\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\string.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stddef.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\assert.h)(0x5E8E2EB2)
+I (..\..\..\..\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\..\..\Libraries\inc\system_cw32f030.h)(0x60D54561)
+F (..\..\..\..\Libraries\src\cw32f030_flash.c)(0x61289D2E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\IdeSupport\MDK -I ..\..\..\..\Libraries\inc -I ..\USER\inc-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM0P -D_RTE_-o .\output\exe\cw32f030_flash.o --omf_browse .\output\exe\cw32f030_flash.crf --depend .\output\exe\cw32f030_flash.d)
+I (..\..\..\..\Libraries\inc\cw32f030_flash.h)(0x60EB901E)
+I (..\..\..\..\Libraries\inc\base_types.h)(0x60ACA725)
+I (C:\Keil_v533\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\string.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stddef.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\assert.h)(0x5E8E2EB2)
+I (..\..\..\..\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\..\..\Libraries\inc\system_cw32f030.h)(0x60D54561)
+F (..\..\..\..\Libraries\src\cw32f030_gpio.c)(0x6103AC59)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\IdeSupport\MDK -I ..\..\..\..\Libraries\inc -I ..\USER\inc-I.\RTE\_rcc_hsi_pll_src_hse_-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0plus\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM0P -D_RTE_-o .\output\exe\cw32f030_gpio.o --omf_browse .\output\exe\cw32f030_gpio.crf --depend .\output\exe\cw32f030_gpio.d)
+I (..\..\..\..\Libraries\inc\cw32f030_gpio.h)(0x6103AC59)
+I (..\..\..\..\Libraries\inc\base_types.h)(0x60ACA725)
+I (C:\Keil_v533\ARM\ARMCC\include\stdio.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\string.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stddef.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (C:\Keil_v533\ARM\ARMCC\include\assert.h)(0x5E8E2EB2)
+I (..\..\..\..\Libraries\inc\cw32f030.h)(0x60F90B71)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\..\..\..\Libraries\inc\system_cw32f030.h)(0x60D54561)

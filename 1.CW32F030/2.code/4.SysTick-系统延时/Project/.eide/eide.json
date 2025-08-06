@@ -1,0 +1,306 @@
+{
+  "name": "empty",
+  "type": "ARM",
+  "dependenceList": [],
+  "srcDirs": [],
+  "virtualFolder": {
+    "name": "<virtual_root>",
+    "files": [],
+    "folders": [
+      {
+        "name": "Libs",
+        "files": [
+          {
+            "path": "../Libraries/src/system_cw32f030.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_spi.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_adc.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_atim.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_awt.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_btim.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_crc.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_debug.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_digitalsign.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_dma.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_flash.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_gpio.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_gtim.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_i2c.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_iwdt.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_lvd.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_pwr.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_ram.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_rcc.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_rtc.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_systick.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_uart.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_vc.c"
+          },
+          {
+            "path": "../Libraries/src/cw32f030_wwdt.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Start",
+        "files": [
+          {
+            "path": "startup_cw32f030.s"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "User",
+        "files": [
+          {
+            "path": "../User/interrupts_cw32f030.c"
+          },
+          {
+            "path": "../User/main.c"
+          },
+          {
+            "path": "../User/led/led.c"
+          },
+          {
+            "path": "../User/systick/systick.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Doc",
+        "files": [],
+        "folders": []
+      },
+      {
+        "name": "::CMSIS",
+        "files": [],
+        "folders": []
+      }
+    ]
+  },
+  "outDir": "build",
+  "deviceName": null,
+  "packDir": null,
+  "miscInfo": {
+    "uid": "713753cba35d8926b52e44de951414bc"
+  },
+  "targets": {
+    "SYSTICK": {
+      "excludeList": [],
+      "toolchain": "AC5",
+      "compileConfig": {
+        "cpuType": "Cortex-M0+",
+        "floatingPointHardware": "none",
+        "scatterFilePath": "",
+        "useCustomScatterFile": false,
+        "storageLayout": {
+          "RAM": [
+            {
+              "tag": "RAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x20000000",
+                "size": "0x2000"
+              },
+              "isChecked": true,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            }
+          ],
+          "ROM": [
+            {
+              "tag": "ROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "IROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x10000"
+              },
+              "isChecked": true,
+              "isStartup": true
+            },
+            {
+              "tag": "IROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            }
+          ]
+        },
+        "options": "null"
+      },
+      "uploader": "JLink",
+      "uploadConfig": {
+        "bin": "",
+        "baseAddr": "",
+        "cpuInfo": {
+          "vendor": "null",
+          "cpuName": "null"
+        },
+        "proType": 1,
+        "speed": 8000,
+        "otherCmds": ""
+      },
+      "uploadConfigMap": {},
+      "custom_dep": {
+        "name": "default",
+        "incList": [
+          "../User",
+          "../Libraries/inc",
+          "../User/led",
+          "../User/systick",
+          ".cmsis/include",
+          "RTE/_SYSTICK"
+        ],
+        "libList": [],
+        "defineList": []
+      },
+      "builderOptions": {
+        "AC5": {
+          "version": 4,
+          "beforeBuildTasks": [],
+          "afterBuildTasks": [],
+          "global": {
+            "use-microLIB": true,
+            "output-debug-info": "enable"
+          },
+          "c/cpp-compiler": {
+            "optimization": "level-0",
+            "one-elf-section-per-function": true,
+            "c99-mode": true,
+            "C_FLAGS": "--diag_suppress=1 --diag_suppress=1295",
+            "CXX_FLAGS": "--diag_suppress=1 --diag_suppress=1295",
+            "warnings": "all-warnings",
+            "gnu-extensions": true
+          },
+          "asm-compiler": {},
+          "linker": {
+            "output-format": "elf",
+            "xo-base": "",
+            "ro-base": "0x00000000",
+            "rw-base": "0x20000000"
+          }
+        }
+      }
+    }
+  },
+  "version": "3.5"
+}

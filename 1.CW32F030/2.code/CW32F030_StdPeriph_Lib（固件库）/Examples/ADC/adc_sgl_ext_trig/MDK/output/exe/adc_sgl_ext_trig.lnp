@@ -1,0 +1,14 @@
+--cpu Cortex-M0+
+".\output\exe\startup_cw32f030.o"
+".\output\exe\system_cw32f030.o"
+".\output\exe\main.o"
+".\output\exe\interrupts_cw32f030.o"
+".\output\exe\cw32f030_adc.o"
+".\output\exe\cw32f030_rcc.o"
+".\output\exe\cw32f030_systick.o"
+".\output\exe\cw32f030_gpio.o"
+".\output\exe\cw32f030_gtim.o"
+--library_type=microlib --strict --scatter ".\output\exe\adc_sgl_ext_trig.sct"
+--keep=*Handler --summary_stderr --info summarysizes --map --load_addr_map_info --symbols
+--info sizes --info totals
+--list ".\output\list\adc_sgl_ext_trig.map" -o .\output\exe\adc_sgl_ext_trig.axf
